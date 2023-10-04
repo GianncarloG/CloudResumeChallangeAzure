@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "cloudresumechallangeazure"
+version = "0.1.0"
+description = "Sample Cloud Resume Challange to get farmilar with Azure"
+authors = ["Gianncarlo Giannattasio <ggiannattasio@newscorp.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pytest = "^7.4.2"
+Azure = "cli"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
