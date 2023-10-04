@@ -2,7 +2,7 @@
 name = "cloudresumechallangeazure"
 version = "0.1.0"
 description = "Sample Cloud Resume Challange to get farmilar with Azure"
-authors = ["Gianncarlo Giannattasio <ggiannattasio@newscorp.com>"]
+authors = ["Gianncarlo Giannattasio <GianncarloG@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
