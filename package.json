@@ -1,0 +1,14 @@
+{
+    "name": "cloud_resume_challange_azure",
+    "version": "1.0.0",
+    "description": "Sample resume hosted serverless",
+    "main": "script.js",
+    "scripts": {
+        "start": "lite-server"
+    },
+    "author": "GianncarloG",
+    "license": "UNLICENSED",
+    "devDependencies": {
+        "lite-server": "^2.5.4"
+    }
+}
